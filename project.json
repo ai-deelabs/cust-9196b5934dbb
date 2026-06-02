@@ -1,0 +1,30 @@
+{
+  "slug": "cust-9196b5934dbb",
+  "brand_dna": "Bless Studio Production is an event booth rental business that provides creative and innovative spaces for events. The desired look is modern and elegant, focusing on vibrant colors that showcase the portfolio effectively, establishing credibility and trustworthiness. The brand also wants strong SEO optimization to attract more clients. The customer is requesting designs that feature different colors for the second and third variants.",
+  "variant_count": 3,
+  "client_id": null,
+  "tags": [
+    "event",
+    "modern",
+    "elegant"
+  ],
+  "generated_at": "2026-06-02T03:28:29Z",
+  "prompt_template": "variant.md",
+  "actions": [
+    {
+      "type": "generate",
+      "at": "2026-06-02T03:32:15Z",
+      "variants": {
+        "v1": {
+          "size_bytes": 35238
+        },
+        "v2": {
+          "size_bytes": 32330
+        },
+        "v3": {
+          "size_bytes": 41053
+        }
+      }
+    }
+  ]
+}
